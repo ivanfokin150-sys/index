@@ -1,0 +1,2 @@
+praca dom
+:DDD
